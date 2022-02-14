@@ -71,6 +71,5 @@ task("get_all_addresses", "Get all addresses that have made transfers")
     console.log("The ",taskArgs.money,"was transferred to ",taskArgs.address);
   });
 
-module.exports = {};
 
 
